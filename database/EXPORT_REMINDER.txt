@@ -1,0 +1,1 @@
+Before submitting, export clinicdesk_db from phpMyAdmin and save as database/clinicdesk_db.sql
